@@ -1,3 +1,4 @@
 pymongo
 pandas
-logging
+numpy
+-e .
